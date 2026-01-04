@@ -1,0 +1,7 @@
+# Ignore database credentials
+config.php
+
+# Ignore logs & temp files
+*.log
+*.tmp
+.DS_Store
