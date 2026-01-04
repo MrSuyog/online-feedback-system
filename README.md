@@ -30,21 +30,8 @@ VS Code	          Code editor
 Git & GitHub	  Version control
 
 📁 Project Structure
-online_feedback/
 
-
-
-│
-├── css/
-│   └── style.css
-│
-├── admin.php
-├── index.php
-├── submit_feedback.php
-├── config.php
-├── database.sql
-├── README.md
-└── .gitignore
+<img width="137" height="179" alt="image" src="https://github.com/user-attachments/assets/8e226fb8-0ad2-4559-afaa-a7466d8682bf" />
 
 🗄️ Database Structure
 
